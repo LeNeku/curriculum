@@ -1,0 +1,12 @@
+body {
+    background:url(ai.gif);
+    background-size: 150px 150px;
+}
+.video {
+    width:  auto;
+    height: -5vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
